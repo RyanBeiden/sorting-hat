@@ -1,3 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700&display=swap');
+
 body {
   background-color: darkcyan;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.btn-primary {
+  background-color: darkcyan !important;
+  border-color: #007676 !important;
+  color: #fff !important;
+}
+
+
+.btn-primary:hover {
+  background-color: #007676 !important;
+  border-color: #007676 !important;
+}
+
+.btn-primary:focus {
+  background-color: #005e5e !important;
+  border-color: #007676 !important;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+form {
+  background-color: #e9ecef;
+  border: 1px solid #e9ecef;
+  border-radius: .3rem;
+}
+
+form label {
+  font-size: 1.5em;
+}
+
+form .row small {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+}
+
+form button {
+  margin: 15px 0px;
 }
