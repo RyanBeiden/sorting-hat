@@ -26,21 +26,36 @@ body {
   text-align: center;
 }
 
-form {
+#showHide {
   background-color: #e9ecef;
   border: 1px solid #e9ecef;
   border-radius: .3rem;
+  text-align: center;
 }
 
-form label {
+.form-group label {
   font-size: 1.5em;
 }
 
-form .row small {
+.form-group .row small {
   margin-bottom: 15px;
   font-size: 1.2em;
 }
 
-form button {
+.form-group button {
   margin: 15px 0px;
+}
+
+#emailHelp {
+  font-size: 1.2em;
+}
+
+.card {
+  background-color: #e9ecef;
+  text-align: center;
+}
+
+button {
+  font-size: 1.2em !important;
+  padding: 8px 15px !important;
 }
