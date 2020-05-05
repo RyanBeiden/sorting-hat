@@ -4,8 +4,8 @@ This web app allows you to Start Sorting Students to their Houses randomly. By s
 
 App in use:
 
-![Sorting Hat Web App Demo](sorting-hat-site-demo.gif)
+![Sorting Hat Web App Demo](gifs/sorting-hat-site-demo.gif)
 
 If nothing is entered into the form:
 
-![Sorting Hat Web App Alert if No Input](sorting-hat-site-alert.gif)
+![Sorting Hat Web App Alert if No Input](gifs/sorting-hat-site-alert.gif)
