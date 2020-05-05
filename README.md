@@ -8,4 +8,4 @@ App in use:
 
 If nothing is entered into the form:
 
-![Sorting Hat Web App Alert if No Input](sorting-hat-site-demo-2.gif)
+![Sorting Hat Web App Alert if No Input](sorting-hat-site-alert.gif)
