@@ -50,7 +50,15 @@ const showStudent = () => {
 const createStudent = () => {
   const validateForm = document.getElementById('createStudent').value;
   if (validateForm === "") {
-    return alert("Nope! Try again.");
+    let domString = `
+      <div class="alert alert-danger alert-dismissible fade show mt-4 mr-5 ml-5" role="alert">
+        <strong>Wait!</strong> You should try typing a name, it can't be blank!
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+  `;
+  return printToDom('#noFieldAlert', domString);
   } else {
       const formValue = document.getElementById('createStudent').value;
       const randomId = Date.now() - 1588448000000;
