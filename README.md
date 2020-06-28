@@ -8,14 +8,19 @@ Web App in use:
 
 ![Sorting Hat Web App Demo](gifs/sorting-hat-site-demo.gif)
 
+---
+
 If nothing is entered into the form:
 
 ![Sorting Hat Web App Alert if No Input](gifs/sorting-hat-site-alert.gif)
 
-## View Project
-- Clone the repository 👉🏼`$ git clone https://github.com/RyanBeiden/sorting-hat.git`
+## Deployed Project
+View [HERE](https://rb-sorting-hat.web.app/) 👀
 
-- Run any http server `$ hs` or code editor to view project 👀
+## View Project
+- Clone it 👉🏼`$ git clone https://github.com/RyanBeiden/sorting-hat.git`
+
+- Run any http server with`$ hs` or view within a code editor
 
 ## Technologies Used
 [![Vanilla JavaScript](https://img.shields.io/badge/-Vanilla%20JavaScript-2c9fcc?style=flat-square)](#) [![HTML](https://img.shields.io/badge/-HTML-2c9fcc?style=flat-square)](#) [![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#)
