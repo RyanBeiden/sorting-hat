@@ -15,7 +15,7 @@ If nothing is entered into the form:
 ![Sorting Hat Web App Alert if No Input](gifs/sorting-hat-site-alert.gif)
 
 ## Deployed Project
-View [HERE](https://rb-sorting-hat.web.app/) 👀
+https://rb-sorting-hat.web.app/
 
 ## View Project
 - Clone it 👉🏼`$ git clone https://github.com/RyanBeiden/sorting-hat.git`
